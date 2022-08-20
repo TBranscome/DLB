@@ -81,7 +81,6 @@ img:hover {
 }
 
 footer {
-    padding-top: 2%;
     margin-left: 20%;
     margin-right: 20%;
     margin-top: 50px;
@@ -96,12 +95,6 @@ footer {
     min-width: 100%;
     z-index: -1;
     min-height: 100%; 
-}
-
-@media screen and (max-width: 576px) {
-    #Typing_Video {
-        display: none;
-    }
 }
 
 .Video_Text {
